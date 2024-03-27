@@ -1,0 +1,12 @@
+﻿<Window x:Class="LanguageServiceTestApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LanguageServiceTestApp"
+        mc:Ignorable="d"
+        Title="Language Service Test App By: AlfonsoM2407" Height="450" Width="800">
+    <Grid>
+        <ContentControl x:Name="MainWindowContent"></ContentControl>
+    </Grid>
+</Window>
